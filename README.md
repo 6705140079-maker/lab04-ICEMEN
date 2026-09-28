@@ -18,18 +18,6 @@ In this lab, our group successfully collaborated on a shared GitHub repository t
 | Thet Htoo San (6705140080) | thethtoosan-github | test_shared.py |
 | Nyan Moe Aung (6705140058) | nyanmoeaung-github | conftest.py |
 
-## Our Merge Conflict
-During Round 3, our group members pushed changes modifying this `README.md` table simultaneously. Git flagged a conflict with the following markers:
-
-<<<<<<< HEAD
-| Aung Zay Oo (6705140079) | aungzayoo-github | test_deposit.py |
-=======
-| Thet Naing Tun (6705140062) | thetnaingtun-github | test_withdraw.py |
->>>>>>> 9f8b4c2
-
-- **Resolution:** We resolved this by opening the `README.md` file, deleting the conflict markers (`<<<<<<< HEAD`, `=======`, `>>>>>>>`), and keeping both members' rows in the final table since everyone needs to be listed. After saving, we staged the file and committed the resolution.
-- **Why Git Could Not Resolve It Automatically:** Git performs merges line-by-line. Because two different commits added different text onto the exact same lines of the `README.md` file concurrently, Git could not automatically decide which changes to keep or overwrite without human intervention.
-
 ## Git Contribution Summary
      4	Aung Zay Oo
      3	Thet Naing Tun
