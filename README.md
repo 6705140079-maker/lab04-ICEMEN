@@ -15,7 +15,7 @@ In this lab, our group successfully collaborated on a shared GitHub repository t
 | Thet Naing Tun (6705140062) | thetnaingtun-github | test_withdraw.py |
 | Aung Khant Ko (6705140063) | aungkhantko-github | test_teardown.py |
 | Thet Htoo San (6705140080) | thethtoosan-github | test_shared.py |
-| Nyan Moe Aung (6705140058) | nyanmoeaung-github | conftest.py |
+| Nyan Moe Aung (6705140058) | NyanMoeAung-6705140058-github | conftest.py |
 
 ## Git Contribution Summary
      4	Aung Zay Oo
