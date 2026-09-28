@@ -7,7 +7,6 @@ In this lab, our group successfully collaborated on a shared GitHub repository t
 - Created individual unit tests and shared `pytest` fixtures across multiple test files (`test_deposit.py`, `test_withdraw.py`, `test_teardown.py`, `test_shared.py`, and `conftest.py`).
 - Executed frequent `git pull`, `git commit`, and `git push` commands to synchronize our work.
 - Intentionally triggered and collaboratively resolved a real Git merge conflict.
-- Used Git commands (`git log`, `git diff`, `git status`) to inspect changes and verify every member's contributions.
 
 ## Who Did What
 | Member | GitHub Username | File |
