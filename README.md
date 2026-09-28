@@ -15,7 +15,7 @@ In this lab, our group successfully collaborated on a shared GitHub repository t
 | Aung Zay Oo (6705140079) | 6705140079-maker-github | test_deposit.py |
 | Thet Naing Tun (6705140062) | thetnaingtun-github | test_withdraw.py |
 | Aung Khant Ko (6705140063) | aungkhantko-github | test_teardown.py |
-| Thet Htoo San (6705140080) | thethtoosan-github | test_shared.py |
+| Thet Htoo San (6705140080) | thethtoo2911-github | test_shared.py |
 | Nyan Moe Aung (6705140058) | NyanMoeAung-6705140058-github | conftest.py |
 
 - **Resolution:** We resolved this by opening the `README.md` file, deleting the conflict markers (`<<<<<<< HEAD`, `=======`, `>>>>>>>`), and keeping both members' rows in the final table since everyone needs to be listed[cite: 1]. After saving, we staged the file and committed the resolution[cite: 1].
