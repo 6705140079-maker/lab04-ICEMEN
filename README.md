@@ -11,7 +11,7 @@ In this lab, our group successfully collaborated on a shared GitHub repository t
 ## Who Did What
 | Member | GitHub Username | File |
 |---|---|---|
-| Aung Zay Oo (6705140079) | aungzayoo-github | test_deposit.py |
+| Aung Zay Oo (6705140079) | 6705140079-maker-github | test_deposit.py |
 | Thet Naing Tun (6705140062) | thetnaingtun-github | test_withdraw.py |
 | Aung Khant Ko (6705140063) | aungkhantko-github | test_teardown.py |
 | Thet Htoo San (6705140080) | thethtoosan-github | test_shared.py |
